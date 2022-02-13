@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+       |-----handy-ruler------------------------------------------------------|
+pcb-rnd: pcb-rnd (Modular PCB layout editor)
+pcb-rnd:
+pcb-rnd: pcb-rnd is a highly modular PCB (Printed Circuit Board) layout tool
+pcb-rnd: with a rich set of plugins for communicating with various external
+pcb-rnd: design tools and other EDA/CAD packages.
+pcb-rnd:
+pcb-rnd:
+pcb-rnd:
+pcb-rnd:
+pcb-rnd: Hosted at http://repo.hu/projects/pcb-rnd
+pcb-rnd:
